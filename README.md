@@ -1,4 +1,4 @@
-<ul>To use:</ul>
+<ol>To use:</ol>
 <li>git clone https://github.com/Ljyockey/space-x-node.git and cd into space-x</li>
 <li>npm install</li>
 <li>npm start</li>
